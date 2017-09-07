@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenor ARKit Demo", "Assembly-CSharp.csproj", "{14696485-9502-2E42-09C8-DB2DB689D3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenor ARKit Demo", "Assembly-CSharp-Editor.csproj", "{094E69BE-AE5B-164C-B029-38EE08DE6200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14696485-9502-2E42-09C8-DB2DB689D3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14696485-9502-2E42-09C8-DB2DB689D3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14696485-9502-2E42-09C8-DB2DB689D3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14696485-9502-2E42-09C8-DB2DB689D3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094E69BE-AE5B-164C-B029-38EE08DE6200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094E69BE-AE5B-164C-B029-38EE08DE6200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094E69BE-AE5B-164C-B029-38EE08DE6200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094E69BE-AE5B-164C-B029-38EE08DE6200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

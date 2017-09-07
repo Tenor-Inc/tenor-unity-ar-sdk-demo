@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 2f3e91c625c114563aaf483e647f1b0a
+timeCreated: 1503932860
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ayak
+    100002: //RootNode
+    100004: Cylinder
+    100006: Cylinder.001
+    100008: Cylinder.002
+    100010: Cylinder.002_MeshPart0
+    100012: Cylinder.002_MeshPart1
+    100014: Cylinder.002_MeshPart2
+    100016: Cylinder.003
+    100018: Cylinder.004
+    100020: Cylinder.005
+    100022: Cylinder.006
+    100024: Cylinder.006_MeshPart0
+    100026: Cylinder.006_MeshPart1
+    100028: Cylinder.006_MeshPart2
+    100030: Cylinder.007
+    100032: fkug metal
+    100034: flug
+    100036: FLUG METAL
+    100038: flug metal
+    100040: 'flug metal '
+    100042: FLUG METAL.001
+    100044: flug metal.001
+    100046: flug metal.002
+    100048: flug.001
+    100050: Line001
+    100052: MEKANIK
+    100054: MEKANIK_MeshPart0
+    100056: MEKANIK_MeshPart1
+    100058: PERVANE
+    100060: Rectangle001
+    100062: Sphere
+    100064: Sphere_MeshPart0
+    100066: Sphere_MeshPart1
+    400000: ayak
+    400002: //RootNode
+    400004: Cylinder
+    400006: Cylinder.001
+    400008: Cylinder.002
+    400010: Cylinder.002_MeshPart0
+    400012: Cylinder.002_MeshPart1
+    400014: Cylinder.002_MeshPart2
+    400016: Cylinder.003
+    400018: Cylinder.004
+    400020: Cylinder.005
+    400022: Cylinder.006
+    400024: Cylinder.006_MeshPart0
+    400026: Cylinder.006_MeshPart1
+    400028: Cylinder.006_MeshPart2
+    400030: Cylinder.007
+    400032: fkug metal
+    400034: flug
+    400036: FLUG METAL
+    400038: flug metal
+    400040: 'flug metal '
+    400042: FLUG METAL.001
+    400044: flug metal.001
+    400046: flug metal.002
+    400048: flug.001
+    400050: Line001
+    400052: MEKANIK
+    400054: MEKANIK_MeshPart0
+    400056: MEKANIK_MeshPart1
+    400058: PERVANE
+    400060: Rectangle001
+    400062: Sphere
+    400064: Sphere_MeshPart0
+    400066: Sphere_MeshPart1
+    2300000: ayak
+    2300002: Cylinder
+    2300004: Cylinder.001
+    2300006: Cylinder.002_MeshPart0
+    2300008: Cylinder.002_MeshPart1
+    2300010: Cylinder.002_MeshPart2
+    2300012: Cylinder.003
+    2300014: Cylinder.004
+    2300016: Cylinder.005
+    2300018: Cylinder.006_MeshPart0
+    2300020: Cylinder.006_MeshPart1
+    2300022: Cylinder.006_MeshPart2
+    2300024: Cylinder.007
+    2300026: fkug metal
+    2300028: flug
+    2300030: FLUG METAL
+    2300032: flug metal
+    2300034: 'flug metal '
+    2300036: FLUG METAL.001
+    2300038: flug metal.001
+    2300040: flug metal.002
+    2300042: flug.001
+    2300044: Line001
+    2300046: MEKANIK_MeshPart0
+    2300048: MEKANIK_MeshPart1
+    2300050: PERVANE
+    2300052: Rectangle001
+    2300054: Sphere_MeshPart0
+    2300056: Sphere_MeshPart1
+    3300000: ayak
+    3300002: Cylinder
+    3300004: Cylinder.001
+    3300006: Cylinder.002_MeshPart0
+    3300008: Cylinder.002_MeshPart1
+    3300010: Cylinder.002_MeshPart2
+    3300012: Cylinder.003
+    3300014: Cylinder.004
+    3300016: Cylinder.005
+    3300018: Cylinder.006_MeshPart0
+    3300020: Cylinder.006_MeshPart1
+    3300022: Cylinder.006_MeshPart2
+    3300024: Cylinder.007
+    3300026: fkug metal
+    3300028: flug
+    3300030: FLUG METAL
+    3300032: flug metal
+    3300034: 'flug metal '
+    3300036: FLUG METAL.001
+    3300038: flug metal.001
+    3300040: flug metal.002
+    3300042: flug.001
+    3300044: Line001
+    3300046: MEKANIK_MeshPart0
+    3300048: MEKANIK_MeshPart1
+    3300050: PERVANE
+    3300052: Rectangle001
+    3300054: Sphere_MeshPart0
+    3300056: Sphere_MeshPart1
+    4300000: Cylinder.007
+    4300002: Cylinder.006_MeshPart0
+    4300004: Cylinder.006_MeshPart1
+    4300006: Cylinder.006_MeshPart2
+    4300008: Cylinder.001
+    4300010: Cylinder.005
+    4300012: Cylinder.004
+    4300014: Cylinder.003
+    4300016: Cylinder.002_MeshPart0
+    4300018: Cylinder.002_MeshPart1
+    4300020: Cylinder.002_MeshPart2
+    4300022: Cylinder
+    4300024: flug metal
+    4300026: fkug metal
+    4300028: ayak
+    4300030: flug.001
+    4300032: FLUG METAL.001
+    4300034: 'flug metal '
+    4300036: flug metal.002
+    4300038: flug metal.001
+    4300040: FLUG METAL
+    4300042: Sphere_MeshPart0
+    4300044: Sphere_MeshPart1
+    4300046: PERVANE
+    4300048: flug
+    4300050: MEKANIK_MeshPart0
+    4300052: MEKANIK_MeshPart1
+    4300054: Rectangle001
+    4300056: Line001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
